@@ -7,7 +7,6 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-
     align-items: center;
     flex-direction: column;
 }
@@ -122,14 +121,6 @@ header
     position:absolute;
     margin: 30px
  }
- .h2
- {
-    color: #3f63c1;
-    align-self: center ;
-    margin :52px;
-    padding: 20PX ; 
-    font-size: medium ;;
- }
  .classe
  { 
     display:flex;
@@ -147,9 +138,13 @@ header
  }
  .recherche{
     font-size: small ;
- font
-    align-self: center ;
+    align-self:center ;
     padding: 10Px ; 
     
  }
-;
+ .sub1
+ {
+ font-size:10px;
+ font-style:italic;
+ } 
+ ;
